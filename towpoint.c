@@ -2,7 +2,7 @@
 // Created by 16920 on 2022/10/16.
 //
 #include "stdio.h"
-int main(){
+int main1asdf(){
     int num = 12;
     int* nump = &num;
 //    不规范 报错
